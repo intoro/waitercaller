@@ -1,2 +1,0 @@
-# waitercaller
-restaurant paging app
